@@ -23,9 +23,10 @@ https://rayanecamposs.github.io/tabela-de-notas/tabela/
 
 ## Squad - NOME-DO-SQUAD
   (Nome dos integrantes do squad)
-  -
-  -
-  -
-  -
-  -
+  - Pedro Lira 
+  - Vinicius Zile
+  - Rayane Campos
+  - Matheus Dutra
+  - Stefanni Bianca
+  - Wesley Santos 
     
