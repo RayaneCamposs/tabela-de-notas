@@ -21,7 +21,7 @@ https://rayanecamposs.github.io/tabela-de-notas/tabela/
 - CSS
 - JavaScript
 
-## Squad - NOME-DO-SQUAD
+## Squad - Sdev's
   (Nome dos integrantes do squad)
   - Pedro Lira 
   - Vinicius Zile
