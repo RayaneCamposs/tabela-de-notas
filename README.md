@@ -22,7 +22,7 @@ https://rayanecamposs.github.io/tabela-de-notas/tabela/
 - JavaScript
 
 ## Squad - Sdev's
-  (Nome dos integrantes do squad)
+  
   - Pedro Lira 
   - Vinicius Zile
   - Rayane Campos
